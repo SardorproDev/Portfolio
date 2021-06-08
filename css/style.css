@@ -452,6 +452,9 @@ header .navbar ul li a:hover {
 	color: #666;
     font-weight: 500;
 }
+.contact .card a {
+	color: #666;
+}
 /* input__card */
 .row {
 	display: flex;
